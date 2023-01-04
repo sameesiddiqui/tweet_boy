@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "tweeter_boy",
+    "slug": "tweeter_boy",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
